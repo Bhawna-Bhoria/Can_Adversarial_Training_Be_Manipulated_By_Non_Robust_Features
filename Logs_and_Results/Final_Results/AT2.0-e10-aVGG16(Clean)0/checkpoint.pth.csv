@@ -1,0 +1,2 @@
+Model,Natural,FGSM,PGD-20,PGD-100,CW-100,AotuAttack
+results/CIFAR10/AT2.0-e10-aVGG16(Clean)0/checkpoint.pth,67.03,24.14,15.36,14.87,16.39,13.03

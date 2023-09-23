@@ -1,0 +1,2 @@
+Model,Natural,FGSM,PGD-20,PGD-100,CW-100,AotuAttack
+results/CIFAR10/AT2.0-e10-aGoogLeNet(Clean)0/checkpoint.pth,79.17,21.94,10.72,10.09,11.73,9.15

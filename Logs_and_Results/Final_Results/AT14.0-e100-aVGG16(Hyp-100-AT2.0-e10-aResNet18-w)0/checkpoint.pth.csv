@@ -1,0 +1,2 @@
+Model,Natural,FGSM,PGD-20,PGD-100,CW-100,AotuAttack
+results/CIFAR10/AT14.0-e100-aVGG16(Hyp-100-AT2.0-e10-aResNet18-w)0/checkpoint.pth,78.34,53.04,49.43,49.18,46.2,44.190000000000005
